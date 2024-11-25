@@ -32,7 +32,7 @@ Evaluation Framework: Tools and scripts for testing scalability, filtering effec
 
 Below is the architecture of the LLM Guardian System:
 
-![Architecture Diagram](assets/architecture_diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 
 🤝  **Contributors:**
