@@ -1,4 +1,4 @@
-# 📌 LLM Guardian System
+# LLM Guardian System
 Welcome to the LLM Guardian System organization! This repository houses all components of our innovative solution for safeguarding Large Language Models (LLMs) against malicious inputs while maintaining high performance and scalability. This project is a collaborative effort by Chaima Jaziri, Amir Hakimi, and Liam Johnston as part of the SOEN 691 Project (Fall 2024).
 
 ## 📌 Project Overview
@@ -12,7 +12,6 @@ Facilitating Research: Offering an evaluation framework for security, scalabilit
 
 🔍 **Key Features:**
 
-
 Policies Referee: is a plug-in that uses static, manually crafted rules and patterns to act as a pre-display filter between user inputs and a large language model (LLM)
 Modular Architecture: Designed for flexibility, extensibility, and ease of integration with existing systems.
 Real-Time Monitoring: Incorporating tools like Prometheus and Grafana for effective system monitoring and optimization.
@@ -21,7 +20,6 @@ Dataset Integration: Leveraging comprehensive datasets to evaluate and enhance s
 
 🏗️ **Organization Structure:**
 
- 
 This GitHub organization is divided into multiple repositories, each focusing on a specific aspect of the project:
 
 Core Guardian Engine: The heart of the system, managing the modular pipeline and coordinating between components.
