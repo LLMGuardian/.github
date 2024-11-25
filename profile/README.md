@@ -28,6 +28,13 @@ Database Systems: Stores user data, embeddings, and cached interactions for impr
 Evaluation Framework: Tools and scripts for testing scalability, filtering effectiveness, and latency.
 
 
+## Architecture Diagram
+
+Below is the architecture of the LLM Guardian System:
+
+![Architecture Diagram](assets/architecture_diagram.png)
+
+
 🤝  **Contributors:**
 
 We believe in equal ownership of this project. Contributions from all team members—Chaima Jaziri(, Amir Hakimi, and Liam Johnston—are integral to its success.
