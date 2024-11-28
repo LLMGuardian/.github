@@ -1,5 +1,5 @@
 # LLM Guardian System
-Welcome to the LLM Guardian System organization! This repository houses all components of our innovative solution for safeguarding Large Language Models (LLMs) against malicious inputs while maintaining high performance and scalability. This project is a collaborative effort by Chaima Jaziri, Amir Hakimi, and Liam Johnston as part of the SOEN 691 Project (Fall 2024).
+Welcome to the LLM Guardian System organization! This repository houses all components of our innovative solution for safeguarding Large Language Models (LLMs) against malicious inputs while maintaining high performance and scalability. This project is a collaborative effort by Chaima Jaziri, Amir Karimi, and Liam Johnston as part of the SOEN 691 Project (Fall 2024).
 
 ## 📌 Project Overview
 
@@ -37,13 +37,13 @@ Below is the architecture of the LLM Guardian System:
 
 🤝  **Contributors:**
 
-We believe in equal ownership of this project. Contributions from all team members—Chaima Jaziri(, Amir Hakimi, and Liam Johnston—are integral to its success.
+We believe in equal ownership of this project. Contributions from all team members—Chaima Jaziri(, Amir Karimi, and Liam Johnston—are integral to its success.
 
 Chaima Jaziri (Concordia University)
 Email: chaima.jaziri@mail.concordia.ca
 
-Amir Hakimi (Queen’s University)
-Email: AMK9978@gmail.com
+Amir Karimi (Queen’s University)
+Email: a.karimi@queensu.ca
 
 Liam Johnston (Queen’s University)
 Email: 24rrvk@queensu.ca
