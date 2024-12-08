@@ -1,13 +1,7 @@
 # LLM Guardian System
-Welcome to the LLM Guardian System organization! This repository houses all components of our innovative solution for safeguarding Large Language Models (LLMs) against malicious inputs while maintaining high performance and scalability. This project is a collaborative effort by Amir Karimi, Chaima Jaziri, and Liam Johnston as part of the SOEN 691 Project (Fall 2024).
+Welcome to the LLM Guardian System organization! This repository houses all components of our innovative solution for safeguarding Large Language Models (LLMs) against malicious inputs while maintaining high performance and scalability. This project is a collaborative effort by Chaima Jaziri, Amir Karimi, and Liam Johnston as part of the SOEN 691 Project (Fall 2024).
 
-## Kernel Project
-You can find the Guardian Kernel project open here:
-https://github.com/AMK9978/Guardian
 
-## Getting Started Writing Plugins
-The Kernel supports an unlimited number of plugins that operate based on the associated **Task** to apply to certain **Users** or **Groups**. See the 
-[Demo](https://github.com/LLMGuardian/BasicJudge) project to learn how to develop a plugin.
 
 ## 📌 Project Overview
 
@@ -44,19 +38,19 @@ Below is the architecture of the LLM Guardian System:
 
 
 🤝  **Contributors:**
-- System Design and Kernel:
-Amir Karimi (Queen’s University)
-Email: a.karimi@queensu.ca
+We believe in equal ownership of this project. Contributions from all team members—Chaima Jaziri, Amir Karimi, and Liam Johnston—are integral to its success.
 
-- Referee Plugin:
 Chaima Jaziri (Concordia University)
 Email: chaima.jaziri@mail.concordia.ca
 
-- Fine-tuned LLM-based Plugin:
+Amir Hakimi (Queen’s University)
+Email: a.karimi@queensu.ca
+
 Liam Johnston (Queen’s University)
 Email: 24rrvk@queensu.ca
-
 🌟 **Vision:**
 
 The LLM Guardian System aspires to be a cornerstone in the field of Software Engineering for AI, enabling secure, efficient, and scalable LLM deployments across diverse contexts. By building and sharing this tool, we aim to contribute significantly to the software engineering and AI communities.
+
+
 
