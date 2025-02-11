@@ -1,6 +1,9 @@
 # LLM Guardian System
 Welcome to the LLM Guardian System organization! This repository houses all components of our innovative solution for safeguarding Large Language Models (LLMs) against malicious inputs while maintaining high performance and scalability. This project is a collaborative effort by Amir Karimi, Chaima Jaziri, and Liam Johnston as part of the SOEN 691 Project (Fall 2024).
 
+#### Read the LLM Guardian paper [here](https://github.com/LLMGuardian/.github/blob/main/LLM_Guardian_paper.pdf).
+
+
 ## Kernel Project
 You can find the Guardian Kernel project open here:
 https://github.com/AMK9978/Guardian
